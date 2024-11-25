@@ -1,0 +1,65 @@
+
+.body-class {
+    background-color: #e9E6dd; 
+    
+}
+
+.header-class {
+    h1 {color: #0274bd;
+    }
+
+}
+
+.nav-class {
+
+ background-color: #c4ad9d;
+ a{
+    color: #f57251;
+    
+ }
+ a:hover {
+    color: #e9E6dd;
+ }
+ 
+}
+
+.title-class {
+    color: rgb(124, 159, 179);
+    
+    
+}
+
+
+.section-title-class {
+    color: rgb(0, 0, 0);
+    
+    
+}
+
+.text-class {
+    color:#f57251;
+
+
+}
+
+.image-class {
+    border: 5px solid #000000;
+}
+
+.form-class {
+    background-color: #0274bd;
+
+}
+
+.button-class {
+    background-color: #f57251;
+
+
+}
+
+.footer-class {
+    background-color: #c4ad9d;
+    color: #f57251;
+
+
+}
